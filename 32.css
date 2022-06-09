@@ -1,0 +1,122 @@
+.nav-item .nav-link{
+    color: black !important;
+    font-family: 'Spectral SC', serif;
+    font-weight: 500;
+}
+h1{
+    /* font-family: 'Oi', cursive; */
+    /* color: orangered; */
+    font-family: 'Rubik Moonrocks', cursive;
+    text-align: center;
+    margin: 50px 0;
+    letter-spacing: 7px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #000;
+}
+.fish-logon{
+    width: 200px;
+}
+.one{
+align-items: center;
+justify-content: flex-end ;/* розміщення блоку з текстом flex-end, flex-start, center */
+height: 400px;
+text-align: center;
+background-image: url(big-foto-1.jpg);
+background-size: cover;
+background-position: 50% 50%;
+}
+.text-top{/*  стилі для блоку з текстом*/
+    border-radius: 10px;
+     font-weight:100; 
+    padding: 20px;
+    background-color: rgba(254, 246, 246, 0.545);
+    box-shadow: 0px 0px 10px gainsboro;
+}
+.row.two{
+padding: 80px 0;
+width: 100%;
+text-align: center;
+margin-top: 10px;
+border: 4px solid rgb(125, 65, 182);
+
+}
+.three{
+margin-top: 50px;
+margin-bottom: 50px;
+
+}
+.row.fish{
+width: 100%;
+border: 4px solid rgb(125, 65, 182);
+
+}
+.row.four{
+    width: 100%;
+    border: 4px solid rgb(125, 65, 182);
+    text-align: center;
+}
+.row.five{
+    border: 4px solid rgb(125, 65, 182);
+   
+}
+.image{
+   
+    width: 100%;
+}
+img{
+    margin-top: 10px;
+    width: 100%;
+    border-radius: 10px;
+}
+p{
+text-align: center;
+padding-top: 50px;
+}
+.row.six{
+    
+    border: 4px solid rgb(125, 65, 182);
+    margin-top: 50px;
+}
+.text-three{
+    background-image: radial-gradient( rgb(255, 196, 0), white 70%) ;
+}
+h3{
+    margin: 20px 0;
+    font-family: 'Rubik Beastly', cursive;
+    text-align: center;
+    letter-spacing: 3px;
+
+}
+.photo{
+    background: transparent;
+    width: 100px;
+    
+}
+.socio-menu{
+color: rgb(218, 145, 78);
+text-decoration: none;
+font-size: 2.3rem;
+transition: 0.1s;
+    margin-right: 10px;
+}
+.footer{
+    background-color: black;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+footer .text{
+    color: grey;
+    
+}
+.socio-item{
+    font-size: 2.3rem;
+    color: lightgray;
+    text-decoration: none;
+    transition: 0.1s;
+    margin-right: 10px;
+}
+.socio-item:hover{
+    color: white;
+    text-shadow: 0px 0px 17px rgb(39, 39, 255);
+
+}
